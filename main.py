@@ -83,8 +83,5 @@ def save_bundle(bundle, cursor):
     cursor.execute(query, params)
 
 
-
-
-
 if __name__ == "__main__":
     main()
